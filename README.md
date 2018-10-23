@@ -1,5 +1,5 @@
 # LSECAT-NONIC
-기존의 LSECAT 에서 NIC 를 사용하지 않음(이더캣을 사용하지 않음) 
+기존의 LSECAT 에서 NIC 를 사용하는부분을 제거함(이더캣을 사용하지 않음) , 나머지 동일
 
 ZYBO-Z7-20, Beagle Bone Black 에서 xenomai 성능 테스트
 
